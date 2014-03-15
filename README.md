@@ -12,8 +12,8 @@ Please visit http://krazzyapps.com/matrix.html
 Note: The app is not live now due to license expiration.
 
 
-Credits
-=======
+Credit
+======
 
 - https://github.com/paulgrayson/ColoredRoundedButton ( For colored rounded button without images )
 
